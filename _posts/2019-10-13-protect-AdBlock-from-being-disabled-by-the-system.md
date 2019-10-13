@@ -31,11 +31,11 @@ To set up AdBlock's background work for Xiaomi devices you should pay attention 
 
 - Tap on the *Recent tasks* button and swipe AdBlock down to make options *visible* (as presented on the screenshot):
 
-<img src="https://cdn.adguard.com/public/Adguard/kb/PicturesEN/android/xiaomirecent.png" width="300">
+<img src="/images/xiaomirecent.png" width="300">
 
 - Tap on the *lock* icon. This will stop Xiaomi from closing AdBlock automatically. It should look like this:
 
-<img src="https://cdn.adguard.com/public/Adguard/kb/PicturesEN/android/xiaomilocked.png" width="300">
+<img src="/images/xiaomilocked.png" width="300">
 
 - Go to *"Battery"*
 
@@ -45,7 +45,7 @@ To set up AdBlock's background work for Xiaomi devices you should pay attention 
 
 - Set up the following *"Background settings"*:
 
-<img src="https://cdn.adguard.com/public/Adguard/kb/PicturesEN/android/xiaomirest.png" width="300">
+<img src="/images/xiaomirest.png" width="300">
 
 - Go to *"Permissions"*
 
@@ -53,7 +53,7 @@ To set up AdBlock's background work for Xiaomi devices you should pay attention 
 
 - Make sure that autostart function is enabled for AdBlock:
 
-<img src="https://cdn.adguard.com/public/Adguard/kb/PicturesEN/android/xiaomiautostart.png" width="300">
+<img src="/images/xiaomiautostart.png" width="300">
 
 <a id="Samsung"></a>
 
@@ -63,15 +63,15 @@ For Samsung devices, there is no huge need for setting up the background work, b
 
  - Tap on the *Recent tasks* button, tap on the *Additional settings* icon. It should look like this:
  
- <img src="https://cdn.adguard.com/public/Adguard/kb/PicturesEN/android/samsungoptions.png" width="300">
+ <img src="/images/samsungoptions.png" width="300">
 
  - Tap on *Lock Apps*:
  
- <img src="https://cdn.adguard.com/public/Adguard/kb/PicturesEN/android/samsunglockapps.png" width="300">
+ <img src="/images/samsunglockapps.png" width="300">
  
   - Tap on the lock icon 
  
- <img src="https://cdn.adguard.com/public/Adguard/kb/PicturesEN/android/samsunglock.png" width="300">
+ <img src="/images/samsunglock.png" width="300">
  
  <a id="Huawei"></a>
  
@@ -81,11 +81,11 @@ Huawei devices are the easiest to set up, it is enough to perform two simple ste
  
   - Tap on the *Recent tasks* button:
   
-  <img src="https://cdn.adguard.com/public/Adguard/kb/PicturesEN/android/huaweirecentapps.jpg" width="300">
+  <img src="/images/huaweirecentapps.jpg" width="300">
   
   - Tap on the lock icon:
   
-   <img src="https://cdn.adguard.com/public/Adguard/kb/PicturesEN/android/huaweilock.jpg" width="300">
+   <img src="/images/huaweilock.jpg" width="300">
    
 Besides, to set up the background work of your app more effectively, you should open device settings and do the following:
    
@@ -163,11 +163,11 @@ Devices with OxygenOS on board are the most problematic, with its OS-sepcific ca
  
  - Open recent apps menu (as showed on this screenshot):
  
- <img src="https://cdn.adguard.com/public/Adguard/kb/PicturesEN/android/onepluslock.png" width="300">
+ <img src="/images/onepluslock.png" width="300">
 
 - Lock AdBlock application:
 
-<img src="https://cdn.adguard.com/public/Adguard/kb/PicturesEN/android/oneplusdots.png" width="300">
+<img src="/images/oneplusdots.png" width="300">
 
 > On some OnePlus phones there is also a thing called App Auto-Launch and Deep Optimisation which essentially prevents apps from working in the background. Please disable it for your app.
 
@@ -185,12 +185,12 @@ Android stock OS normally does not conflict with applications working in the bac
 
  - Go to Settings - Network and Internet
  
- <img src="https://cdn.adguard.com/public/Adguard/kb/PicturesEN/android/stocknetwork.png" width="300">
+ <img src="/images/stocknetwork.png" width="300">
 
  - Tap on "VPN" and choose AdBlock
  
- <img src="https://cdn.adguard.com/public/Adguard/kb/PicturesEN/android/stockvpn.png" width="300">
+ <img src="/images/stockvpn.png" width="300">
  
  - Set up "Always on VPN" mode
  
- <img src="https://cdn.adguard.com/public/Adguard/kb/PicturesEN/android/stockadguard.png" width="300">
+ <img src="/images/stockadguard.png" width="300">
