@@ -81,11 +81,11 @@ Huawei devices are the easiest to set up, it is enough to perform two simple ste
  
   - Tap on the *Recent tasks* button:
   
-  <img src="/images/huaweirecentapps.jpg" width="300">
+  <img src="/images/huaweirecentapps.png" width="300">
   
   - Tap on the lock icon:
   
-   <img src="/images/huaweilock.jpg" width="300">
+   <img src="/images/huaweilock.png" width="300">
    
 Besides, to set up the background work of your app more effectively, you should open device settings and do the following:
    
@@ -185,12 +185,12 @@ Android stock OS normally does not conflict with applications working in the bac
 
  - Go to Settings - Network and Internet
  
- <img src="/images/stocknetwork.png" width="300">
+ <img src="/images/vpn_1.png" width="300">
 
  - Tap on "VPN" and choose AdBlock
  
- <img src="/images/stockvpn.png" width="300">
+ <img src="/images/vpn_2.png" width="300">
  
  - Set up "Always on VPN" mode
  
- <img src="/images/stockadguard.png" width="300">
+ <img src="/images/vpn_3.png" width="300">
