@@ -12,12 +12,12 @@ Installation
 Configuration for Chrome[](#configuration-for-chrome)
 -----------------------------------------------------
 
-**Please do the following instructions otherwise Chrome can bypass AdBlock.** (Not required if your device is running Android 6.0)
+**Please do the following instructions otherwise Chrome can bypass AdBlock.**
 
 Step one: **Close Lite mode**
 
 *   Go to Chrome's settings
-*   Tap "Lite mode"
+*   Tap "**Lite mode**"
 *   Switch to off
 
 
