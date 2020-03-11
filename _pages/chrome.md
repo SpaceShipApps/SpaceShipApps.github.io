@@ -26,7 +26,7 @@ Step two: **disable async DNS resolver**
 *   Type **chrome://flags** in the address bar, hit enter
 *   Search for async DNS resolver (#enable-async-dns)
 *   Choose **disabled** in the drop down menu
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-Quh2iRHh3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="350" height="196" src="https://www.youtube.com/embed/-Quh2iRHh3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Step three: **clear Chrome cache**
 
