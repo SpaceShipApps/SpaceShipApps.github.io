@@ -14,17 +14,19 @@ Configuration for Chrome[](#configuration-for-chrome)
 
 **Please do the following instructions otherwise Chrome can bypass AdBlock.** (Not required if your device is running Android 6.0)
 
-Step one: **disable async DNS resolver**
+Step one: **Close Lite mode**
+
+*   Go to Chrome's settings
+*   Tap "Lite mode"
+*   Switch to off
+
+
+Step two: **disable async DNS resolver**
 
 *   Type **chrome://flags** in the address bar, hit enter
 *   Search for async DNS resolver (#enable-async-dns)
 *   Choose **disabled** in the drop down menu
-
-Step two: **clear DNS cache**
-
-*   Type **chrome://net-internals** in the address bar
-*   Navigate to the DNS tab and tap “**Clear host cache**”
-*   Then restart Chrome
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Quh2iRHh3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Step three: **clear Chrome cache**
 
