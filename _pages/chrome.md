@@ -8,8 +8,6 @@ Installation
 ============
 
 [](# "Print this article")
-
-Configuration for Chrome[](#configuration-for-chrome)
 -----------------------------------------------------
 
 **Please do the following instructions otherwise Chrome can bypass AdBlock.**
