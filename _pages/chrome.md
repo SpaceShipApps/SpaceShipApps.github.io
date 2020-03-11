@@ -19,14 +19,14 @@ Step one: **Close Lite mode**
 *   Switch to off
 
 
-Step two: **disable async DNS resolver**
+Step two: **Disable async DNS resolver**
 
 *   Type **chrome://flags** in the address bar, hit enter
 *   Search for async DNS resolver (#enable-async-dns)
 *   Choose **disabled** in the drop down menu
 <iframe width="350" height="196" src="https://www.youtube.com/embed/-Quh2iRHh3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Step three: **clear Chrome cache**
+Step three: **Clear Chrome cache**
 
 *   Long press Chrome icon
 *   Navigate to App info and tap “Storage & cache”
