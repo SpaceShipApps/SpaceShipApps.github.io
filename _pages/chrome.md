@@ -24,7 +24,7 @@ Step two: **Disable async DNS resolver**
 *   Type **chrome://flags** in the address bar, hit enter
 *   Search for async DNS resolver (#enable-async-dns)
 *   Choose **disabled** in the drop down menu
-(The latest version of Chrome removes this option, and AdBlock can also work normally.)
+**(The latest version of Chrome removes this option, and AdBlock can also work normally.)**
 <iframe width="350" height="196" src="https://www.youtube.com/embed/-Quh2iRHh3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Step three: **Clear Chrome cache**
