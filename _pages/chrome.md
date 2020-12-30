@@ -19,14 +19,15 @@ Step one: **Close Lite mode**
 *   Switch to off
 
 
-<span style="color:gray">_Step two: **Disable async DNS resolver**_
-*   Type **chrome://flags** in the address bar, hit enter
-*   Search for async DNS resolver (#enable-async-dns)
-*   Choose **disabled** in the drop down menu
+<span style="color:gray">Step two: **Disable async DNS resolver**</span>
 
 **(The latest version of Chrome removes this option, so you may not need to do this step, and AdBlock can also work normally.)**
+
+<span style="color:gray">*   Type **chrome://flags** in the address bar, hit enter</span>
+<span style="color:gray">*   Search for async DNS resolver (#enable-async-dns)</span>
+<span style="color:gray">*   Choose **disabled** in the drop down menu</span>
+
 <iframe width="350" height="196" src="https://www.youtube.com/embed/-Quh2iRHh3g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</span>
 
 Step three: **Clear Chrome cache**
 
