@@ -19,7 +19,7 @@ Step one: **Close Lite mode**
 *   Switch to off
 
 
-<span style="color:#888888">_Step two: **Disable async DNS resolver**_
+<span style="color:gray">_Step two: **Disable async DNS resolver**_
 *   Type **chrome://flags** in the address bar, hit enter
 *   Search for async DNS resolver (#enable-async-dns)
 *   Choose **disabled** in the drop down menu
