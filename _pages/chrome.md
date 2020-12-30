@@ -29,7 +29,7 @@ Step one: **Close Lite mode**
 
 <span style="color:gray">*   Choose **disabled** in the drop down menu</span>
 
-<span style="color:gray">*   Video:https://www.youtube.com/embed/-Quh2iRHh3g</span>
+<span style="color:gray">*   Video: https://www.youtube.com/embed/-Quh2iRHh3g</span>
 
 Step three: **Clear Chrome cache**
 
